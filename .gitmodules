@@ -1,0 +1,3 @@
+[submodule "OpenSCAD-Arduino-Mounting-Library"]
+	path = OpenSCAD-Arduino-Mounting-Library
+	url = https://github.com/kellyegan/OpenSCAD-Arduino-Mounting-Library.git
